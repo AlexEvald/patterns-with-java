@@ -1,4 +1,4 @@
-package chain.main.clasic;
+package chain.main.classic;
 
 
 import chain.Car;
