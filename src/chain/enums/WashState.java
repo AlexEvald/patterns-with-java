@@ -1,4 +1,4 @@
-package functional.chain.enums;
+package chain.enums;
 
 public enum WashState {
     INITIAL_WASH,

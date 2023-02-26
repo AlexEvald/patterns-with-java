@@ -1,6 +1,6 @@
-package functional.chain.steps;
+package chain.steps;
 
-import functional.chain.Car;
+import chain.Car;
 
 public abstract class CarWashStep {
     protected CarWashStep nextStep;

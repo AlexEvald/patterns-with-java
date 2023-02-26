@@ -1,7 +1,7 @@
-package functional.chain.steps;
+package chain.steps;
 
-import functional.chain.Car;
-import functional.chain.enums.WashState;
+import chain.Car;
+import chain.enums.WashState;
 
 public class PolishStep extends CarWashStep {
     @Override

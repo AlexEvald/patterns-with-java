@@ -1,6 +1,6 @@
-package functional.chain;
+package chain;
 
-import functional.chain.enums.WashState;
+import chain.enums.WashState;
 
 import java.util.Objects;
 

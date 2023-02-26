@@ -1,11 +1,12 @@
-package functional.chain;
+package chain.main.clasic;
 
 
-import functional.chain.steps.*;
+import chain.Car;
+import chain.steps.*;
 
 /****
  * This pattern is very useful when we have to do different operations on an object in a given order, like a chain factory.
- * The non-functional way of implementing this pattern implied creating different classes, in a similar way to Strategy pattern.
+ * The non-chain.main.functional way of implementing this pattern implied creating different classes, in a similar way to Strategy pattern.
  * This used to be a bit verbose, and it adds unnecessary complexity to our code.
  */
 public class ChainMain {

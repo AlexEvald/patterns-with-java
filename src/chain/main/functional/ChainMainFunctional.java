@@ -1,7 +1,8 @@
-package functional.chain;
+package chain.main.functional;
 
 
-import functional.chain.enums.WashState;
+import chain.Car;
+import chain.enums.WashState;
 
 import java.util.function.Function;
 
