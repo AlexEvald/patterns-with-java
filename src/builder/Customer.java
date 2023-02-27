@@ -1,4 +1,4 @@
-package builder.main;
+package builder;
 
 import java.util.Optional;
 

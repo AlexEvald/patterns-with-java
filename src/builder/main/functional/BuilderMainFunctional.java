@@ -1,6 +1,6 @@
 package builder.main.functional;
 
-import builder.main.CustomerFunctional;
+import builder.CustomerFunctional;
 
 public class BuilderMainFunctional {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package builder.main.enums;
+package builder.enums;
 
 public enum Sex {
     FEMALE,

@@ -1,6 +1,6 @@
 package builder.main.classic;
 
-import builder.main.Customer;
+import builder.Customer;
 
 public class BuilderMain {
     public static void main(String[] args) {
